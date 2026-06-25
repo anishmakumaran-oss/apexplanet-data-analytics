@@ -11,13 +11,13 @@ Global E-commerce Sales Dataset
 
 ## Tools & Technologies
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-GitHub
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* GitHub
 
 ## Work Completed
 
