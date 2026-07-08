@@ -1,0 +1,68 @@
+order_id,order_date,customer_name,customer_segment,country,region,product_category,product_name,quantity,unit_price,discount_percent,total_sales,shipping_cost,profit,payment_method
+ORD-10402,2023-01-14,Jamal Schmidt,Consumer,Mexico,North America,Furniture,Folding Table Portable,6,96.58,0,579.48,10.22,221.57,Credit Card
+ORD-10594,2023-02-21,Ayumi Khan,Consumer,United States,North America,Technology,Smart LED Desk Lamp,8,72.89,0,583.12,14.27,248.13,Credit Card
+ORD-10915,2023-03-08,Ahmed Harris,Consumer,Brazil,South America,Furniture,Floating Wall Shelves Set,6,99.69,0,598.14,18.01,221.25,Credit Card
+ORD-10676,2023-03-17,Wei Chen,Consumer,Saudi Arabia,Middle East & Africa,Technology,Mechanical Gaming Keyboard,3,174.46,0,523.38,14.65,220.87,Credit Card
+ORD-10071,2023-04-05,Richard Müller,Consumer,United States,North America,Furniture,Ergonomic Office Chair,2,252.68,0,505.36,8.12,194.02,PayPal
+ORD-11008,2023-04-26,Marco Taylor,Consumer,Mexico,North America,Furniture,Bookshelf 5-Tier,3,192.55,0,577.65,10.26,220.8,Credit Card
+ORD-11435,2023-05-18,Lucas Khan,Consumer,United States,North America,Furniture,Mesh Back Task Chair,2,295.24,0,590.48,9.07,227.12,PayPal
+ORD-11322,2023-06-10,Amir Chen,Consumer,Canada,North America,Furniture,Ergonomic Office Chair,3,229.47,15,585.15,9.83,162.27,Credit Card
+ORD-10661,2023-06-29,Olga Nilsson,Consumer,Canada,North America,Technology,Webcam HD 1080p,9,74.43,10,602.88,11.59,222.86,Credit Card
+ORD-10283,2023-07-15,Hans Singh,Home Office,Spain,Europe,Furniture,Filing Cabinet 3-Drawer,4,161.93,10,582.95,10.19,184.13,Bank Transfer
+ORD-11339,2023-08-01,Noah Oliveira,Consumer,United Kingdom,Europe,Furniture,Mesh Back Task Chair,3,182.51,5,520.15,8.9,182.73,PayPal
+ORD-10737,2023-08-12,Barbara Hassan,Consumer,Australia,Asia Pacific,Technology,Laptop Stand Adjustable,8,75.46,15,513.13,16.19,164.92,Credit Card
+ORD-10927,2023-08-27,Michael Khan,Corporate,Canada,North America,Furniture,Corner L-Shaped Desk,3,185.14,5,527.65,9.42,184.98,PayPal
+ORD-11422,2023-09-03,David Clark,Consumer,Germany,Europe,Furniture,Folding Table Portable,10,67.1,10,603.9,14.47,186.83,Cash on Delivery
+ORD-11795,2023-09-14,Ali Johnson,Corporate,Mexico,North America,Furniture,Monitor Riser Wood,14,61.54,30,603.09,33.58,52.57,Credit Card
+ORD-10752,2023-09-16,Liam Laurent,Consumer,Mexico,North America,Furniture,Folding Table Portable,6,110.59,10,597.19,11.12,187.95,PayPal
+ORD-11239,2023-09-17,Ali Johansson,Corporate,United States,North America,Clothing & Accessories,Business Casual Blazer,5,133.6,25,501.0,14.42,152.58,Credit Card
+ORD-10499,2023-10-21,Felix Müller,Corporate,Japan,Asia Pacific,Furniture,Folding Table Portable,5,127.98,20,511.92,13.19,114.79,Credit Card
+ORD-10429,2023-10-24,Karen Robinson,Home Office,China,Asia Pacific,Technology,Wireless Ergonomic Mouse,11,52.9,0,581.9,17.52,244.33,Bank Transfer
+ORD-10725,2023-11-18,Giulia Rossi,Corporate,Australia,Asia Pacific,Technology,Laptop Stand Adjustable,11,53.68,0,590.48,19.16,246.56,PayPal
+ORD-11463,2023-12-16,Ingrid Zhang,Corporate,Australia,Asia Pacific,Technology,Mechanical Gaming Keyboard,8,85.21,15,579.43,13.75,190.76,PayPal
+ORD-10318,2023-12-23,Priya Costa,Corporate,South Korea,Asia Pacific,Furniture,Mesh Back Task Chair,4,166.71,20,533.47,15.13,118.24,Credit Card
+ORD-11993,2024-01-09,Hanna Taylor,Home Office,Mexico,North America,Furniture,Ergonomic Office Chair,3,192.53,0,577.59,10.09,220.95,Credit Card
+ORD-11928,2024-02-03,Kenji Dubois,Home Office,Spain,Europe,Furniture,Mesh Back Task Chair,2,297.8,0,595.6,11.67,226.57,PayPal
+ORD-10947,2024-03-03,Kenji Davis,Home Office,Italy,Europe,Furniture,Mesh Back Task Chair,5,131.71,10,592.7,10.75,186.82,Cash on Delivery
+ORD-10437,2024-03-07,Nadia Harris,Corporate,China,Asia Pacific,Clothing & Accessories,Business Casual Blazer,5,110.65,0,553.25,13.18,263.44,Credit Card
+ORD-11956,2024-03-16,Hanna Müller,Consumer,Saudi Arabia,Middle East & Africa,Technology,Noise Cancelling Earbuds,3,187.16,0,561.48,15.51,237.16,Cash on Delivery
+ORD-11997,2024-03-17,Barbara Sato,Consumer,United States,North America,Furniture,Mesh Back Task Chair,3,185.09,0,555.27,9.37,212.74,Credit Card
+ORD-11101,2024-03-27,Hans Harris,Consumer,United States,North America,Technology,Portable External SSD 1TB,6,99.17,15,505.77,13.35,165.16,Credit Card
+ORD-11969,2024-03-31,Nadia Laurent,Consumer,Australia,Asia Pacific,Technology,Noise Cancelling Earbuds,4,130.45,0,521.8,18.51,216.3,PayPal
+ORD-11325,2024-06-20,Olga Suzuki,Consumer,Canada,North America,Technology,Portable External SSD 1TB,6,88.33,5,503.48,13.32,198.67,PayPal
+ORD-11857,2024-07-23,Mia Romano,Corporate,Japan,Asia Pacific,Technology,Wireless Bluetooth Headphones,3,215.99,10,583.17,14.33,212.46,PayPal
+ORD-10786,2024-08-13,Jessica Suzuki,Corporate,India,Asia Pacific,Technology,Wireless Bluetooth Headphones,4,147.28,10,530.21,12.2,193.99,Cash on Delivery
+ORD-10857,2024-09-10,Layla Johansson,Consumer,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,10,62.96,10,566.64,19.53,200.83,PayPal
+ORD-10312,2024-10-03,Lucas Nilsson,Consumer,United Kingdom,Europe,Technology,Mechanical Gaming Keyboard,4,142.59,0,570.36,11.88,244.78,PayPal
+ORD-11749,2024-10-04,Ivan Williams,Corporate,India,Asia Pacific,Technology,Portable External SSD 1TB,5,113.75,5,540.31,19.74,207.76,Bank Transfer
+ORD-11883,2024-10-06,Mia Costa,Consumer,Germany,Europe,Technology,Smart LED Desk Lamp,10,53.93,5,512.33,19.66,196.06,Cash on Delivery
+ORD-10944,2024-10-30,Mary White,Consumer,United States,North America,Furniture,Filing Cabinet 3-Drawer,3,210.89,5,601.04,11.78,209.66,Cash on Delivery
+ORD-10621,2024-10-31,David Schmidt,Consumer,Germany,Europe,Clothing & Accessories,Polarized Sunglasses,12,42.25,0,507.0,23.04,230.46,Bank Transfer
+ORD-10785,2024-11-09,Ayumi Laurent,Consumer,Argentina,South America,Furniture,Mesh Back Task Chair,2,288.51,0,577.02,13.32,217.49,Bank Transfer
+ORD-10093,2024-11-26,Raj Johnson,Consumer,India,Asia Pacific,Furniture,Bookshelf 5-Tier,3,181.78,5,518.07,11.35,179.52,PayPal
+ORD-10602,2024-11-30,Sakura Thomas,Corporate,United States,North America,Technology,Wireless Ergonomic Mouse,12,54.74,10,591.19,18.95,210.96,PayPal
+ORD-10969,2024-11-30,Jessica Moreau,Corporate,United Kingdom,Europe,Clothing & Accessories,Business Casual Blazer,7,81.97,0,573.79,17.03,269.87,PayPal
+ORD-11384,2024-12-13,Ahmed Ali,Consumer,Mexico,North America,Clothing & Accessories,Cotton Formal Shirt,12,44.66,5,509.12,14.12,227.04,Credit Card
+ORD-10975,2025-01-04,Oscar Nilsson,Consumer,France,Europe,Furniture,Filing Cabinet 3-Drawer,5,127.03,5,603.39,16.49,205.81,PayPal
+ORD-10970,2025-01-12,Diego Kim,Consumer,United Kingdom,Europe,Clothing & Accessories,Leather Wallet Minimalist,10,56.84,5,539.98,24.76,231.02,Cash on Delivery
+ORD-11957,2025-01-26,Barbara Singh,Consumer,United States,North America,Technology,Portable External SSD 1TB,6,92.96,0,557.76,10.11,240.88,Bank Transfer
+ORD-10751,2025-03-16,Pierre Leroy,Home Office,Mexico,North America,Clothing & Accessories,Travel Backpack 30L,9,64.33,5,550.02,22.61,237.92,PayPal
+ORD-11127,2025-04-10,Diego Weber,Home Office,Germany,Europe,Furniture,Filing Cabinet 3-Drawer,4,128.7,0,514.8,10.27,195.65,Credit Card
+ORD-10534,2025-05-30,Thomas Weber,Home Office,South Africa,Middle East & Africa,Technology,Portable External SSD 1TB,5,115.16,5,547.01,16.63,213.69,Cash on Delivery
+ORD-10200,2025-06-22,Lucas Moreau,Home Office,Mexico,North America,Furniture,Mesh Back Task Chair,6,111.51,15,568.7,11.57,155.69,Cash on Delivery
+ORD-11872,2025-06-28,Noah Tanaka,Consumer,China,Asia Pacific,Technology,Laptop Stand Adjustable,9,58.82,5,502.91,25.7,186.05,PayPal
+ORD-10036,2025-07-23,Xiao Brown,Corporate,Brazil,South America,Technology,Wireless Ergonomic Mouse,12,53.38,10,576.5,38.8,185.39,Cash on Delivery
+ORD-11420,2025-08-16,Olga Yamamoto,Corporate,Germany,Europe,Technology,Portable External SSD 1TB,4,141.99,0,567.96,15.11,240.47,Bank Transfer
+ORD-11140,2025-08-29,Jennifer Robinson,Consumer,United Kingdom,Europe,Clothing & Accessories,Polarized Sunglasses,8,75.6,10,544.32,14.7,227.22,Credit Card
+ORD-11894,2025-08-31,Elizabeth Miller,Home Office,United States,North America,Furniture,Floating Wall Shelves Set,7,80.08,10,504.5,16.07,152.09,Credit Card
+ORD-10798,2025-09-02,Pierre Anderson,Corporate,China,Asia Pacific,Furniture,Monitor Riser Wood,10,61.71,10,555.39,27.35,157.78,Credit Card
+ORD-10185,2025-09-08,Sarah Clark,Consumer,Brazil,South America,Furniture,Mesh Back Task Chair,2,293.43,10,528.17,12.96,163.09,PayPal
+ORD-11541,2025-09-23,Sarah Weber,Home Office,United States,North America,Furniture,Mesh Back Task Chair,6,118.21,15,602.87,11.16,166.15,Credit Card
+ORD-10542,2025-09-29,Thomas Hassan,Corporate,Saudi Arabia,Middle East & Africa,Furniture,Mesh Back Task Chair,3,190.05,10,513.14,17.04,154.01,Bank Transfer
+ORD-10890,2025-10-05,Olga Garcia,Corporate,Mexico,North America,Furniture,Corner L-Shaped Desk,2,301.44,5,572.74,7.89,203.12,Credit Card
+ORD-11081,2025-10-07,Amir Williams,Consumer,Mexico,North America,Technology,Wireless Ergonomic Mouse,9,60.42,0,543.78,12.46,232.24,Credit Card
+ORD-11608,2025-11-01,Isabella Sato,Consumer,Argentina,South America,Clothing & Accessories,Travel Backpack 30L,6,92.98,0,557.88,18.67,260.27,PayPal
+ORD-11256,2025-11-03,Ivan Sato,Consumer,Spain,Europe,Furniture,Corner L-Shaped Desk,2,297.84,15,506.33,8.55,140.37,Bank Transfer
+ORD-11940,2025-11-03,Hanna Hassan,Home Office,France,Europe,Technology,Portable External SSD 1TB,6,110.54,10,596.92,21.12,211.02,PayPal
+ORD-11693,2025-12-10,Carlos Rodriguez,Corporate,Brazil,South America,Furniture,Bookshelf 5-Tier,3,194.57,0,583.71,13.8,219.68,Credit Card
+ORD-10823,2025-12-31,Linda Nilsson,Consumer,France,Europe,Furniture,Folding Table Portable,5,104.73,0,523.65,19.1,190.36,PayPal
